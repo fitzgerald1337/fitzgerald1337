@@ -1,16 +1,14 @@
-### Hi there 👋
+# hello 👋
 
-<!--
-**fitzgerald1337/fitzgerald1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### my name is michael fitzgerald.
 
-Here are some ideas to get you started:
+- i’m currently working on
+   - building my skills as an associate software developer
+   - exploring QA, dev rel
+   - being a supportive team member
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- fun fact: i'm also an ice hockey official
+
+- check out my [website](https://michaelfitzgerald.net "my little corner of the web")
+
+#### you can get in touch with me at <hi@michaelfitzgerald.net>
