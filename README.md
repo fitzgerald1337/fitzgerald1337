@@ -7,8 +7,13 @@
   - building my skills as an associate software developer
   - exploring QA, dev rel
   - being a supportive team member
+  - learning about blockchain technologies
 
-#### fun fact: i'm also an ice hockey official
+#### fun facts:
+
+- i'm an on-ice and off-ice hockey official
+- i'm sort of decent at golf
+- my diet is horrible
 
 #### check out my [website](https://michaelfitzgerald.net "my little corner of the web")
 
