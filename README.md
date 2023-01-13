@@ -13,7 +13,7 @@
 
 - i'm an on-ice and off-ice hockey official
 - i'm sort of decent at golf
-- my diet is horrible
+- i enjoy spicy food
 
 #### check out my [website](https://michaelfitzgerald.net "my little corner of the web")
 
